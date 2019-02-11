@@ -1,0 +1,21 @@
+{
+  "main.css": "./static/css/main.58d41f51.chunk.css",
+  "main.js": "./static/js/main.dc6e00a0.chunk.js",
+  "main.js.map": "./static/js/main.dc6e00a0.chunk.js.map",
+  "static/js/1.5a76dccf.chunk.js": "./static/js/1.5a76dccf.chunk.js",
+  "static/js/1.5a76dccf.chunk.js.map": "./static/js/1.5a76dccf.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/MenuItem.css": "./static/media/news-icon.7c9a59a8.svg",
+  "static/media/NotificationButton.css": "./static/media/notification-icon.5193b7a3.svg",
+  "static/media/Attach.css": "./static/media/attach-icon-disabled.e1d823f7.svg",
+  "static/media/Avatars.css": "./static/media/avatar-placeholder.fe6443a0.svg",
+  "static/media/Checkbox.css": "./static/media/checkbox.a0c65f3c.svg",
+  "static/media/CloseButton.css": "./static/media/cross-icon.0e07a19b.svg",
+  "static/media/DropDown.css": "./static/media/dropdown-arrow.84726734.svg",
+  "static/media/Menu.css": "./static/media/menu-show-button.700fa571.svg",
+  "static/css/main.58d41f51.chunk.css.map": "./static/css/main.58d41f51.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.b4538770187408fbf28311209b4c1db8.js": "./precache-manifest.b4538770187408fbf28311209b4c1db8.js",
+  "service-worker.js": "./service-worker.js"
+}
